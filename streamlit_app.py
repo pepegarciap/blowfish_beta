@@ -11,7 +11,16 @@ import zipfile
 
 # Page title
 st.set_page_config(page_title='Blowfish', page_icon='🐡')
-st.title('🐡 Wellcome to Blowfish!')
+st.title('🐡 Welcome to Blowfish!')
 
-st.header('Choose you starting points:')
+st.header('Step 1: Choose your starting points')
+
+airports_df = pd.read_excel("data/airport_codes.xlsx")
+
+selected_origin1 = st.selectbox("Choose an option:", airports_df.Nombre)
+
+
+
+
+
 
