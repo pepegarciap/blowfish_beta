@@ -1,0 +1,224 @@
+,Country,City,Code,Name
+1,Alemania,Berlín,THF,Tempelhof
+2,Alemania,Berlín,SXF,Schonefeld
+3,Alemania,Colonia,CGN,Colonia
+4,Alemania,Dusseldorf,DUS,Dusseldorf
+5,Alemania,Frankfurt,FRA,Frankfurt Int.
+6,Alemania,Hamburgo,HAM,Fuhlsbuettel
+7,Alemania,Munich,MUC,Franz Strauss
+8,Alemania,Stuttgart,STR,Echterdingen
+9,Angola,Luanda,LAD,4 de Fevereiro
+10,Antillas Hol.,Curacao,CUR,Apto. Hato
+11,Antigua,Antigua,ANU,V. C. Bird Int.
+12,Argelia,Argel,ALG,Houari-Boumedienne
+13,Argentina,Buenos Aires,BUE,Ezeiza
+14,Aruba,Aruba,AUA,Reina Beatrix
+15,Australia,Melbourne,MEL,Tullamarine
+16,Australia,Sydney,SYD,Kingsford Smith
+17,Austria,Graz,GRZ,Thalerhof
+18,Austria,Viena,VIE,Viena Int.
+19,Bahamas,Nassau,NAS,International
+20,Bahamas,Nassau,PID,Paradise Island
+21,Barbados,Barbados,BGI,G. Adams Int.
+22,Bélgica,Bruselas,BRU,National
+23,Bolivia,Cochabamba,CBB,Wilsterman
+24,Bolivia,La Paz,LPB,El Alto
+25,Bolivia,Sta. Cruz de la Sierra,VVI,Viru Viru Int.
+26,Bosnia,Sarajevo,SJJ,Butmir
+27,Brasil,Belem,BEL,Val de Cans
+28,Brasil,Belo Horizonte,CNF,Tancredo Neves
+29,Brasil,Belo Horizonte,PLU,Pampulha
+30,Brasil,Brasilia,BSB,International
+31,Brasil,Campinas,CPQ,International
+32,Brasil,Curitiba,CWB,Alfonso Pena
+33,Brasil,Florianópolis,FLN,Hercilio Luz
+34,Brasil,Fortaleza,FOR,Pinto Martins
+35,Brasil,Foz de Iguazú,IGU,Cataratas
+36,Brasil,Ilheus,IOS,Eduardo Gomes
+37,Brasil,Maceió,MCZ,Palmares
+38,Brasil,Manaos,MAO,Eduardo Gómes Int.
+39,Brasil,Porto Alegre,POA,Salgado Filho
+40,Brasil,Porto Velho,PVH,Belmonte
+41,Brasil,Recife,REC,Guararapes Int.
+42,Brasil,Río de Janeiro,GIG,International
+43,Brasil,Río de Janeiro,SDU,Santos Dumont
+44,Brasil,Salvador,SSA,Luis E. Magalhaes
+45,Brasil,Sao Luiz,SLZ,Mal Cunha Macha
+46,Brasil,Sao Paulo,CGH,Congonhas
+47,Brasil,Sao Paulo,GRU,Guarulhos
+48,Brasil,Sao Paulo,VCP,Viracopos
+49,Brasil,Tabatinga,TBT,International
+50,Bulgaria,Sofía,SOF,Vrazhdebna
+51,Canadá,Montreal,YUL,Dorval
+52,Canadá,Montreal,YMX,Mirabel Int.
+53,Canadá,Ottawa,YOW,International
+54,Canadá,Toronto,YYZ,Pearson Int.
+55,Canadá,Toronto,YKZ,Buttonville
+56,Canadá,Vancouver,YVR,International
+57,CEI,Moscú,SVO,Sheremetyevo
+58,CEI,Moscú,DME,Domodedovo
+59,CEI,Moscú,VKO,Vnukovo
+60,Chile,Antofagasta,ANF,Cerro Moreno
+61,Chile,Arica,ARI,Chacalluta
+62,Chile,Iquique,IQQ,Diego Aracena
+63,Chile,Puerto Montt,PMC,Tepual
+64,Chile,Punta Arenas,PUQ,Presidente Ibáñez
+65,Chile,Santiago de Chile,SCL,A. M. Benítez
+66,China,Beijing,BJS,Beijing
+67,China,Shanghai,SHA,Hongqiao
+68,Colombia,Barranquilla,BAQ,E. Cortissoz
+69,Colombia,Bogotá,BOG,El Dorado
+70,Colombia,Cali,CLO,A. Bonilla Aragón
+71,Colombia,Cartagena,CTG,Rafael Nuñez Int.
+72,Colombia,Medellín,MDE,José María Cordova
+73,Congo,Brazzaville,BZV,Maya Maya
+74,Corea,Seúl,SEL,Incheon Internacional
+75,Costa Rica,San José,SJO,Juan Santamaría Int.
+76,Cuba,Habana,HAV,José Martí Int.
+77,Cuba,Varadero,VRA,Juan Gualberto Gómez
+78,Dinamarca,Copenhague,CPH,Copenhague
+79,Ecuador,Guayaquil,GYE,Simón Bolívar
+80,Ecuador,Quito,UIO,Mariscal Sucre
+81,Egipto,El Cairo,CAI,International
+82,El Salvador,San Salvador,SAL,Comalapa Int.
+83,Escocia,Glasgow,GLA,Glasgow
+84,Escocia,Glasgow,PIK,Prestwick
+85,Eslovaquia,Bratislava,BTS,Ivanka
+86,Eslovenia,Ljulbjand,LJU,Brnik
+87,España,Alicante,ALI,El Altet
+88,España,Barcelona,BCN,El Prat
+89,España,Bilbao,BIO,Sondica
+90,España,Ibiza,IBZ,Ibiza
+91,España,Lanzarote,ACE,Lanzarote
+92,España,Las Palmas,LPA,Gando
+93,España,Madrid,MAD,Barajas
+94,España,Málaga,AGP,Pablo Picasso
+95,España,Palma de Mallorca,PMI,Son San Juan
+96,España,Stgo. de Compostela,SCQ,La Bacolla
+97,España,Tenerife,TFN,Los Rodeos
+98,España,Tenerife,TFS,Reina Sofía
+99,España,Valencia,VLC,Manises
+100,España,Vigo,VGO,Peinador
+101,Filipinas,Manila,MNL,Ninoy Aquino Int.
+102,Finlandia,Helsinki,HEL,Helsinki-Vantaa
+103,Francia,Lyon,LYS,Satolas
+104,Francia,París,CDG,Charles de Gaulle
+105,Francia,París,ORY,Orly
+106,Grecia,Atenas,ATH,Eleftherios Venizelos
+107,Guadalupe,Pointe a Pitre,PTP,Le Raizet
+108,Guatemala,Guatemala,GUA,La Aurora
+109,Guyana Fr.,Cayenne,CAY,Rochambeau
+110,Guyana,Georgetown,GEO,Cheddi Jagan
+111,Haiti,Port,PAP,International
+112,Hawaii,Honolulu,HNL,International
+113,Holanda,Amsterdam,AMS,Schiphol Int.
+114,Holanda,Rotterdam,RTM,Rotterdam
+115,Honduras,Tegucigalpa,TGU,Toncontin
+116,Hong Kong,Hong Kong,HKG,International
+117,Hungría,Budapest,BUD,Ferihegy
+118,India,Calcuta,CCU,Netaji Subhas
+119,India,Nueva Delhi,DEL,Indira Gandhi Int.
+120,India,Mumbay,BOM,Bombay
+121,Indonesia,Jakarta,CGK,Soekarno-Hatta Int.
+122,Indonesia,Jakarta,HLP,Halim Perdana Kusama
+123,Inglaterra,Belfast,BFS,Belfast Int.
+124,Inglaterra,Belfast,BHD,Belfast City
+125,Inglaterra,Londres,LHR,Heathrow
+126,Inglaterra,Londres,LGW,Gatwick
+127,Inglaterra,Londres,STN,Stansted
+128,Inglaterra,Londres,LTN,Luton Int.
+129,Inglaterra,Londres,LCY,London City Airport
+130,Irán,Teherán,THR,Mehrabad
+131,Irlanda,Shannon,SNN,Shannon
+132,Israel,Tel Aviv,TLV,Ben Gurion
+133,Italia,Bari,BRI,Palese
+134,Italia,Génova,GOA,C. Colombo
+135,Italia,Milán,LIN,Linate
+136,Italia,Milán,MXP,Malpensa
+137,Italia,Nápoles,NAP,Nápoles Int.
+138,Italia,Roma,FCO,Fiumicino
+139,Jamaica,Kingston,KIN,Norman Manley
+140,Jamaica,Kingston,KTP,Tinson
+141,Japón,Nagoya,NGO,Komaki
+142,Japón,Osaka,KIX,Kansai Int.
+143,Japón,Tokio,HND,Haneda
+144,Japón,Tokio,NRT,Narita
+145,Kenya,Nairobi,NBO,Kenyatta
+146,Kenya,Nairobi,WIL,Wilson
+147,Líbano,Beirut,BEY,International
+148,Malasia,Kuala Lumpur,KUL,International
+149,Malta,Malta,MLA,Luqa
+150,Marruecos,Casablanca,CMN,Mohammed V
+151,Marruecos,Rabat,RBA,Sale
+152,México,Acapulco,ACA,Int. Gral. Juan Alvarez
+153,México,Cancún,CUN,Cancún
+154,México,Mérida,MID,Manuel Rejon
+155,México,México,MEX,Benito Juárez
+156,Myanmar,Yangon,RGN,Yangon Int.
+157,Nicaragua,Managua,MGA,Int. Augusto Sandino
+158,Nigeria,Lagos,L0S,Murtala Muhammed
+159,Noruega,Bergen,BGO,Flesland
+160,Noruega,Oslo,FBU,Fornebu
+161,Noruega,Oslo,GEN,Gardermoen
+162,Nva. Zelanda,Auckland,AKL,International
+163,Pakistán,Karachi,KHI,Quaid - E - Azam
+164,Panamá,Panamá,PTY,Tocumen Intl.
+165,Paraguay,Asunción,ASU,Silvio Pettirossi
+166,Perú,Iquitos,IQT,Fco. Secada
+167,Perú,Lima,LIM,Jorge Chavez Int.
+168,Perú,Piura,PIU,Piura
+169,Polinesia Fr.,Papete,PPT,Faaa
+170,Polonia,Varsovia,WAW,Okecie
+171,Portugal,Lisboa,LIS,Lisboa
+172,Portugal,Oporto,OPO,Porto
+173,Puerto Rico,San Juan,SJU,L. Muñóz Marín Int.
+174,Puerto Rico,San Juan,SIG,Isla Grande
+175,Rep. Checa,Praga,PRG,Ruzyne
+176,Rep. Dominicana,Sto. Domingo,SDQ,Las Américas
+177,Rumania,Bucarest,BBU,Baneasa
+178,Rumania,Bucarest,OTP,Otopeni
+179,Senegal,Dakar,DKR,Yoff
+180,Singapur,Singapur,SIN,Changi
+181,Sudáfrica,Ciudad del Cabo,CPT,Capetown Int.
+182,Sudáfrica,Johannesburgo,JNB,Johannesburg Int.
+183,Suecia,Estocolmo,ARN,Arlanda
+184,Suecia,Estocolmo,BMA,Bromma
+185,Suiza,Basilea,BSL,Basel
+186,Suiza,Ginebra,GVA,Geneva/Cointrin
+187,Suiza,Zurich,ZRH,Zurich
+188,Surinam,Paramaribo,PMB,Zanderij
+189,Taiwan,Taipei,TPE,Chiang Kai Shek Int.
+190,Tailandia,Bangkok,BKK,International
+191,Trinidad,Puerto España,POS,Piarco
+192,Turquía,Estambul,IST,Ataturk
+193,Ucrania,Kiev,KBP,Borispol
+194,Ucrania,Kiev,IEV,Zhulhany
+195,Uruguay,Montevideo,MVD,Carrasco
+196,USA,Orlando,MCO,International
+197,USA,Atlanta,ATL,Hartsfield Int.
+198,USA,Baltimore,BWI,Baltimore-Wash Int.
+199,USA,Boston,BOS,Logan Int.
+200,USA,Chicago,ORD,O'Hare-International
+201,USA,Chicago,MDW,Midway
+202,USA,Chicago,CGX,Meigs Field
+203,USA,Dallas,DFW,Dallas/Ft.Worth Int.
+204,USA,Houston,HOU,Hobby
+205,USA,Houston,IAH,George Bush
+206,USA,Los Angeles,LAX,International
+207,USA,Memphis,MEM,International
+208,USA,Miami,MIA,International
+209,USA,Nueva Orleans,MSY,International
+210,USA,Nueva York,JFK,J. F. Kennedy Int.
+211,USA,Nueva York,LGA,La Guardia
+212,USA,Nueva York,EWR,Newark Int.
+213,USA,Portland,PDX,International
+214,USA,San Francisco,SFO,International
+215,USA,San Francisco,OAK,Metropolitan Oakland
+216,USA,Seattle,SEA,Seattle-Tacoma Int.
+217,USA,Washington,IAD,Dulles Int.
+218,USA,Washington,DCA,Reagan Int.
+219,USA,Washington,BWI,Baltimore/Washington Int.
+220,Venezuela,Caracas,CCS,Simón Bolívar
+221,Venezuela,Maracaibo,MAR,La Chinita
+222,Venezuela,Porlamar,PMV,Del Caribe
+223,Yugoslavia,Belgrado,BEG,Belgrade
