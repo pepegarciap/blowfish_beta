@@ -10,8 +10,9 @@ import time
 import zipfile
 
 # Page title
-st.set_page_config(page_title='Blowfish', page_icon='🐡')
-st.title('🐡 Welcome to Blowfish!')
+st.set_page_config(page_title='MeetingSpot')
+st.title('MeetingSpot')
+st.subheader('For people traveling from different places')
 
 st.header('Step 1: Choose your starting points')
 
