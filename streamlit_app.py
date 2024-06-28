@@ -36,13 +36,13 @@ with col3:
     data3 = st.number_input("# of passengers", step=1, min_value=0, format="%d")
     data23 = st.number_input("# of passengers ", step=1, min_value=0, format="%d")
 with col4:
-    data4 = st.date_input("Departure date")
-    data24 = st.date_input("Departure date ")
+    data4 = st.date_input("Departure date", format="DD/MM/YYYY")
+    data24 = st.date_input("Departure date ", format="DD/MM/YYYY")
     if st.button("Add starting point"):
         st.session_state.counter += 1
 with col5:
-    data5 = st.date_input("Arrival date")
-    data25 = st.date_input("Arrival date ")
+    data5 = st.date_input("Arrival date", format="DD/MM/YYYY")
+    data25 = st.date_input("Arrival date ", format="DD/MM/YYYY")
     if st.button("Drop starting point"):
         st.session_state.counter -= 1
 
